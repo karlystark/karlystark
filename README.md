@@ -6,5 +6,5 @@ My ultimate goal is to become an accessibility engineer, with a focus on communi
 
 When I'm not excitedly falling down endless coding rabbit holes, you can find me on a hiking trail, at the local climbing gym, practicing mutual aid, making music, or cooking/baking for my friends.
 
-🌱 I’m currently learning: Javascript & applying to bootcamps!
+🌱 I’m currently learning: HTML & CSS, and intermediate Javascript pre-work for bootcamp!
 
