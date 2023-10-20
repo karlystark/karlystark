@@ -4,5 +4,5 @@ My name is Karly (they/them), and I'm a software engineer with a passion for acc
 
 When I'm not coding, you can find me on a hiking trail, at the local climbing gym, practicing mutual aid, making music, whittling spoons, or sharing food with friends.
 
-🌱 I’m currently learning in Rithm School's cohort 32!
+🌱 I just graduated from Rithm School's cohort 32!
 
